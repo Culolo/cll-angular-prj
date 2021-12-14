@@ -9,9 +9,9 @@ import {ColDef} from 'ag-grid-community';
 export class DemoComponent {
 
   columnDefs: ColDef[] = [
-    {field: 'make'},
-    {field: 'model'},
-    {field: 'price'}
+    {field: 'make', sortable: true, filter: true},
+    {field: 'model', sortable: true, filter: true},
+    {field: 'price', sortable: true, filter: true}
   ];
 
   rowData = [
