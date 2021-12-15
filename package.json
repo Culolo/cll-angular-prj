@@ -20,7 +20,6 @@
     "@angular/router": "~13.0.0",
     "@swimlane/ngx-charts": "^19.1.0",
     "ag-grid-angular": "^26.2.0",
-    "ag-grid-community": "^26.2.0",
     "ag-grid-enterprise": "^26.2.0",
     "ng-zorro-antd": "^12.1.0",
     "rxjs": "~7.4.0",
